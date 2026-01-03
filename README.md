@@ -1,5 +1,13 @@
 # 🧬 Biofusion: Hybrid Biomedical Prediction
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.x-blue?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-success?logo=pandas)
+![License](https://img.shields.io/github/license/Nimaabediforud/Heart-Disease-Prediction)
+![Status](https://img.shields.io/badge/Status-Ongoing-success?style=flat-square)
+
+---
 ## 📌 Project Overview
 **Biofusion Hybrid Biomedical Prediction** is a biomedical machine learning project focused on predicting diabetes status (diabetic vs. non-diabetic) from clinical, demographic, and laboratory features.
 
